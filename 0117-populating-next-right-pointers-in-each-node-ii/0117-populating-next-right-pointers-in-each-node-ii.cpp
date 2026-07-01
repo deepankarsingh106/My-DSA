@@ -29,9 +29,8 @@ class Solution {
                     tl = temp->left;
                 }
                 else{
-                    hd = temp->left;
-                    tl->next = hd;
-                    tl=hd;
+                    tl->next = temp->left;
+                    tl=temp->left;
                 }
             }
             if(temp->right){
@@ -40,19 +39,14 @@ class Solution {
                     tl = temp->right;
                 }
                 else{
-                    hd = temp->right;
-                    tl->next = hd;
-                    tl = hd;
+                    tl->next = temp->right;;
+                    tl = temp->right;;
                 }
             }
             temp=temp->next;
         }
-        // if(root->left && root->right){
-        //     root->left->next = root->right;
-        // }
-        solve(root->left);
-        solve(root->right);
-
+        
+        solve(hd);
     }
 public:
     Node* connect(Node* root) {
