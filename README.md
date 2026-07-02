@@ -13,18 +13,21 @@ It is Journey!!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepankarsingh106/My-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0617-merge-two-binary-trees](https://github.com/deepankarsingh106/My-DSA/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0623-add-one-row-to-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepankarsingh106/My-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0617-merge-two-binary-trees](https://github.com/deepankarsingh106/My-DSA/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0623-add-one-row-to-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepankarsingh106/My-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0617-merge-two-binary-trees](https://github.com/deepankarsingh106/My-DSA/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0623-add-one-row-to-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
@@ -32,6 +35,7 @@ It is Journey!!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepankarsingh106/My-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0617-merge-two-binary-trees](https://github.com/deepankarsingh106/My-DSA/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0623-add-one-row-to-tree) |
 ## Array
 |  |
 | ------- |
