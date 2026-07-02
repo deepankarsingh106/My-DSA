@@ -39,6 +39,7 @@ It is Journey!!!
 ## Array
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deepankarsingh106/My-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search
@@ -60,9 +61,11 @@ It is Journey!!!
 ## Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deepankarsingh106/My-DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deepankarsingh106/My-DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
