@@ -14,6 +14,7 @@ It is Journey!!!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0617-merge-two-binary-trees](https://github.com/deepankarsingh106/My-DSA/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0623-add-one-row-to-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepankarsingh106/My-DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@ It is Journey!!!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0617-merge-two-binary-trees](https://github.com/deepankarsingh106/My-DSA/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0623-add-one-row-to-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepankarsingh106/My-DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
@@ -36,6 +38,7 @@ It is Journey!!!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0617-merge-two-binary-trees](https://github.com/deepankarsingh106/My-DSA/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0623-add-one-row-to-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepankarsingh106/My-DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Array
 |  |
 | ------- |
