@@ -15,6 +15,7 @@ It is Journey!!!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepankarsingh106/My-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepankarsingh106/My-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0450-delete-node-in-a-bst](https://github.com/deepankarsingh106/My-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/deepankarsingh106/My-DSA/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0623-add-one-row-to-tree) |
@@ -50,6 +51,7 @@ It is Journey!!!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepankarsingh106/My-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepankarsingh106/My-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0450-delete-node-in-a-bst](https://github.com/deepankarsingh106/My-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/deepankarsingh106/My-DSA/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0623-add-one-row-to-tree) |
@@ -135,4 +137,8 @@ It is Journey!!!
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/deepankarsingh106/My-DSA/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
