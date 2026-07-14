@@ -11,6 +11,7 @@ It is Journey!!!
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepankarsingh106/My-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepankarsingh106/My-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -29,6 +30,7 @@ It is Journey!!!
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepankarsingh106/My-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepankarsingh106/My-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -53,6 +55,7 @@ It is Journey!!!
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepankarsingh106/My-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepankarsingh106/My-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -153,6 +156,7 @@ It is Journey!!!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/deepankarsingh106/My-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/deepankarsingh106/My-DSA/tree/master/0450-delete-node-in-a-bst) |
