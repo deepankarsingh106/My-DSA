@@ -11,19 +11,19 @@
  */
 class Solution {
 private:
-    TreeNode* solve(vector<int>& preorder,int mini,int maxi,int &i){
-        if((i >= preorder.size()) || (preorder[i] < mini) || (preorder[i] > maxi))  return NULL;
+    TreeNode* solve(vector<int>& preorder,int maxi,int &i){
+        if((i >= preorder.size()) || (preorder[i] > maxi))  return NULL;
 
         TreeNode* root = new TreeNode(preorder[i++]);
-        root->left = solve(preorder,mini,root->val,i);
-        root->right = solve(preorder,root->val,maxi,i);
+        root->left = solve(preorder,root->val,i);
+        root->right = solve(preorder,maxi,i);
         return root;
     }
 public:
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        int mini = INT_MIN;
+        // int mini = INT_MIN;
         int maxi = INT_MAX;
         int i = 0;
-        return solve(preorder,mini,maxi,i);
+        return solve(preorder,maxi,i);
     }
 };
