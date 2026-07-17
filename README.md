@@ -115,6 +115,7 @@ It is Journey!!!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/deepankarsingh106/My-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/deepankarsingh106/My-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/deepankarsingh106/My-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -148,6 +149,7 @@ It is Journey!!!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/deepankarsingh106/My-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/deepankarsingh106/My-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1288-remove-covered-intervals](https://github.com/deepankarsingh106/My-DSA/tree/master/1288-remove-covered-intervals) |
@@ -220,6 +222,7 @@ It is Journey!!!
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/deepankarsingh106/My-DSA/tree/master/0295-find-median-from-data-stream) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepankarsingh106/My-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -241,4 +244,12 @@ It is Journey!!!
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/deepankarsingh106/My-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/deepankarsingh106/My-DSA/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/deepankarsingh106/My-DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
