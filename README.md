@@ -94,6 +94,7 @@ It is Journey!!!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0525-contiguous-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deepankarsingh106/My-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/deepankarsingh106/My-DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/deepankarsingh106/My-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepankarsingh106/My-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1288-remove-covered-intervals](https://github.com/deepankarsingh106/My-DSA/tree/master/1288-remove-covered-intervals) |
@@ -122,6 +123,7 @@ It is Journey!!!
 | [0347-top-k-frequent-elements](https://github.com/deepankarsingh106/My-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/deepankarsingh106/My-DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/deepankarsingh106/My-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
@@ -136,6 +138,7 @@ It is Journey!!!
 | [0451-sort-characters-by-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deepankarsingh106/My-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/deepankarsingh106/My-DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/deepankarsingh106/My-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0652-find-duplicate-subtrees](https://github.com/deepankarsingh106/My-DSA/tree/master/0652-find-duplicate-subtrees) |
 | [1331-rank-transform-of-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -160,6 +163,7 @@ It is Journey!!!
 | [0347-top-k-frequent-elements](https://github.com/deepankarsingh106/My-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/deepankarsingh106/My-DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/deepankarsingh106/My-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1288-remove-covered-intervals](https://github.com/deepankarsingh106/My-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -179,6 +183,7 @@ It is Journey!!!
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/deepankarsingh106/My-DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/deepankarsingh106/My-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -253,6 +258,7 @@ It is Journey!!!
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/deepankarsingh106/My-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/deepankarsingh106/My-DSA/tree/master/0621-task-scheduler) |
 ## Sliding Window
 |  |
 | ------- |
