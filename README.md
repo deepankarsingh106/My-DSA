@@ -110,6 +110,7 @@ It is Journey!!!
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/deepankarsingh106/My-DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepankarsingh106/My-DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepankarsingh106/My-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -118,6 +119,7 @@ It is Journey!!!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepankarsingh106/My-DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -177,6 +179,7 @@ It is Journey!!!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepankarsingh106/My-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/deepankarsingh106/My-DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
@@ -319,4 +322,8 @@ It is Journey!!!
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
