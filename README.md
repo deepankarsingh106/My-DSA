@@ -95,6 +95,7 @@ It is Journey!!!
 | [0347-top-k-frequent-elements](https://github.com/deepankarsingh106/My-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/deepankarsingh106/My-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0525-contiguous-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deepankarsingh106/My-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/deepankarsingh106/My-DSA/tree/master/0621-task-scheduler) |
@@ -151,6 +152,7 @@ It is Journey!!!
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/deepankarsingh106/My-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/deepankarsingh106/My-DSA/tree/master/0355-design-twitter) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deepankarsingh106/My-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -326,4 +328,12 @@ It is Journey!!!
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
