@@ -188,6 +188,7 @@ It is Journey!!!
 ## String
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/deepankarsingh106/My-DSA/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/deepankarsingh106/My-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0451-sort-characters-by-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0606-construct-string-from-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0606-construct-string-from-binary-tree) |
@@ -250,6 +251,7 @@ It is Journey!!!
 ## Math
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/deepankarsingh106/My-DSA/tree/master/0282-expression-add-operators) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepankarsingh106/My-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -367,6 +369,7 @@ It is Journey!!!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/deepankarsingh106/My-DSA/tree/master/0037-sudoku-solver) |
+| [0282-expression-add-operators](https://github.com/deepankarsingh106/My-DSA/tree/master/0282-expression-add-operators) |
 | [0980-unique-paths-iii](https://github.com/deepankarsingh106/My-DSA/tree/master/0980-unique-paths-iii) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/deepankarsingh106/My-DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/deepankarsingh106/My-DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
