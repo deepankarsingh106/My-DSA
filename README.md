@@ -101,6 +101,7 @@ It is Journey!!!
 | [0525-contiguous-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deepankarsingh106/My-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/deepankarsingh106/My-DSA/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/deepankarsingh106/My-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/deepankarsingh106/My-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0846-hand-of-straights](https://github.com/deepankarsingh106/My-DSA/tree/master/0846-hand-of-straights) |
 | [0980-unique-paths-iii](https://github.com/deepankarsingh106/My-DSA/tree/master/0980-unique-paths-iii) |
@@ -209,6 +210,7 @@ It is Journey!!!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/deepankarsingh106/My-DSA/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/deepankarsingh106/My-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/deepankarsingh106/My-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0846-hand-of-straights](https://github.com/deepankarsingh106/My-DSA/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/deepankarsingh106/My-DSA/tree/master/1288-remove-covered-intervals) |
@@ -252,6 +254,7 @@ It is Journey!!!
 |  |
 | ------- |
 | [0282-expression-add-operators](https://github.com/deepankarsingh106/My-DSA/tree/master/0282-expression-add-operators) |
+| [0628-maximum-product-of-three-numbers](https://github.com/deepankarsingh106/My-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepankarsingh106/My-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
