@@ -149,6 +149,7 @@ It is Journey!!!
 | [0451-sort-characters-by-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/deepankarsingh106/My-DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/deepankarsingh106/My-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0767-reorganize-string](https://github.com/deepankarsingh106/My-DSA/tree/master/0767-reorganize-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
@@ -174,6 +175,7 @@ It is Journey!!!
 | [0621-task-scheduler](https://github.com/deepankarsingh106/My-DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/deepankarsingh106/My-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0652-find-duplicate-subtrees](https://github.com/deepankarsingh106/My-DSA/tree/master/0652-find-duplicate-subtrees) |
+| [0767-reorganize-string](https://github.com/deepankarsingh106/My-DSA/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/deepankarsingh106/My-DSA/tree/master/0846-hand-of-straights) |
 | [1001-grid-illumination](https://github.com/deepankarsingh106/My-DSA/tree/master/1001-grid-illumination) |
 | [1331-rank-transform-of-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -195,6 +197,7 @@ It is Journey!!!
 | [0316-remove-duplicate-letters](https://github.com/deepankarsingh106/My-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0451-sort-characters-by-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0606-construct-string-from-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0606-construct-string-from-binary-tree) |
+| [0767-reorganize-string](https://github.com/deepankarsingh106/My-DSA/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepankarsingh106/My-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/deepankarsingh106/My-DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/deepankarsingh106/My-DSA/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -214,6 +217,7 @@ It is Journey!!!
 | [0621-task-scheduler](https://github.com/deepankarsingh106/My-DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepankarsingh106/My-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/deepankarsingh106/My-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0767-reorganize-string](https://github.com/deepankarsingh106/My-DSA/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/deepankarsingh106/My-DSA/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/deepankarsingh106/My-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -241,6 +245,7 @@ It is Journey!!!
 | [0316-remove-duplicate-letters](https://github.com/deepankarsingh106/My-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0621-task-scheduler](https://github.com/deepankarsingh106/My-DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/deepankarsingh106/My-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0767-reorganize-string](https://github.com/deepankarsingh106/My-DSA/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/deepankarsingh106/My-DSA/tree/master/0846-hand-of-straights) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepankarsingh106/My-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -328,6 +333,7 @@ It is Journey!!!
 | [0347-top-k-frequent-elements](https://github.com/deepankarsingh106/My-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/deepankarsingh106/My-DSA/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/deepankarsingh106/My-DSA/tree/master/0767-reorganize-string) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/deepankarsingh106/My-DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/deepankarsingh106/My-DSA/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepankarsingh106/My-DSA/tree/master/3312-sorted-gcd-pair-queries) |
