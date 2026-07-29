@@ -53,6 +53,7 @@ It is Journey!!!
 | [0623-add-one-row-to-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/deepankarsingh106/My-DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0733-flood-fill](https://github.com/deepankarsingh106/My-DSA/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/deepankarsingh106/My-DSA/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -71,6 +72,7 @@ It is Journey!!!
 | [0623-add-one-row-to-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0623-add-one-row-to-tree) |
 | [0733-flood-fill](https://github.com/deepankarsingh106/My-DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/deepankarsingh106/My-DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/deepankarsingh106/My-DSA/tree/master/1020-number-of-enclaves) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepankarsingh106/My-DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
@@ -121,6 +123,7 @@ It is Journey!!!
 | [0994-rotting-oranges](https://github.com/deepankarsingh106/My-DSA/tree/master/0994-rotting-oranges) |
 | [1001-grid-illumination](https://github.com/deepankarsingh106/My-DSA/tree/master/1001-grid-illumination) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepankarsingh106/My-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/deepankarsingh106/My-DSA/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/deepankarsingh106/My-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -150,6 +153,7 @@ It is Journey!!!
 | ------- |
 | [0130-surrounded-regions](https://github.com/deepankarsingh106/My-DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/deepankarsingh106/My-DSA/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/deepankarsingh106/My-DSA/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
@@ -179,6 +183,7 @@ It is Journey!!!
 | [0733-flood-fill](https://github.com/deepankarsingh106/My-DSA/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/deepankarsingh106/My-DSA/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/deepankarsingh106/My-DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/deepankarsingh106/My-DSA/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
