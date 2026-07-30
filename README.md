@@ -44,6 +44,7 @@ It is Journey!!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepankarsingh106/My-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/deepankarsingh106/My-DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/deepankarsingh106/My-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/deepankarsingh106/My-DSA/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/deepankarsingh106/My-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -65,6 +66,7 @@ It is Journey!!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepankarsingh106/My-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/deepankarsingh106/My-DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/deepankarsingh106/My-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/deepankarsingh106/My-DSA/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/deepankarsingh106/My-DSA/tree/master/0547-number-of-provinces) |
@@ -106,6 +108,7 @@ It is Journey!!!
 | [0037-sudoku-solver](https://github.com/deepankarsingh106/My-DSA/tree/master/0037-sudoku-solver) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepankarsingh106/My-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/deepankarsingh106/My-DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/deepankarsingh106/My-DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/deepankarsingh106/My-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/deepankarsingh106/My-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -152,6 +155,7 @@ It is Journey!!!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/deepankarsingh106/My-DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/deepankarsingh106/My-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/deepankarsingh106/My-DSA/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/deepankarsingh106/My-DSA/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -178,6 +182,7 @@ It is Journey!!!
 | [0036-valid-sudoku](https://github.com/deepankarsingh106/My-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deepankarsingh106/My-DSA/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/deepankarsingh106/My-DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/deepankarsingh106/My-DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/deepankarsingh106/My-DSA/tree/master/0733-flood-fill) |
