@@ -60,6 +60,7 @@ It is Journey!!!
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/deepankarsingh106/My-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -79,6 +80,7 @@ It is Journey!!!
 | [0733-flood-fill](https://github.com/deepankarsingh106/My-DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/deepankarsingh106/My-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/deepankarsingh106/My-DSA/tree/master/1020-number-of-enclaves) |
+| [1971-find-if-path-exists-in-graph](https://github.com/deepankarsingh106/My-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepankarsingh106/My-DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
@@ -163,6 +165,7 @@ It is Journey!!!
 | [0200-number-of-islands](https://github.com/deepankarsingh106/My-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/deepankarsingh106/My-DSA/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/deepankarsingh106/My-DSA/tree/master/1020-number-of-enclaves) |
+| [1971-find-if-path-exists-in-graph](https://github.com/deepankarsingh106/My-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
@@ -324,6 +327,7 @@ It is Journey!!!
 | [0207-course-schedule](https://github.com/deepankarsingh106/My-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/deepankarsingh106/My-DSA/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/deepankarsingh106/My-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search Tree
 |  |
