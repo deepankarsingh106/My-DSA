@@ -159,6 +159,7 @@ It is Journey!!!
 | [3501-maximize-active-section-with-trade-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/deepankarsingh106/My-DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepankarsingh106/My-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -239,6 +240,7 @@ It is Journey!!!
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepankarsingh106/My-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/deepankarsingh106/My-DSA/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -288,6 +290,7 @@ It is Journey!!!
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/deepankarsingh106/My-DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepankarsingh106/My-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
