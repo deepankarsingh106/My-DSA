@@ -76,6 +76,7 @@ It is Journey!!!
 | [0200-number-of-islands](https://github.com/deepankarsingh106/My-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/deepankarsingh106/My-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0210-course-schedule-ii) |
+| [0433-minimum-genetic-mutation](https://github.com/deepankarsingh106/My-DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/deepankarsingh106/My-DSA/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/deepankarsingh106/My-DSA/tree/master/0617-merge-two-binary-trees) |
@@ -224,6 +225,7 @@ It is Journey!!!
 | [0347-top-k-frequent-elements](https://github.com/deepankarsingh106/My-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/deepankarsingh106/My-DSA/tree/master/0355-design-twitter) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0433-minimum-genetic-mutation](https://github.com/deepankarsingh106/My-DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deepankarsingh106/My-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -255,6 +257,7 @@ It is Journey!!!
 | [0127-word-ladder](https://github.com/deepankarsingh106/My-DSA/tree/master/0127-word-ladder) |
 | [0282-expression-add-operators](https://github.com/deepankarsingh106/My-DSA/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/deepankarsingh106/My-DSA/tree/master/0316-remove-duplicate-letters) |
+| [0433-minimum-genetic-mutation](https://github.com/deepankarsingh106/My-DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0606-construct-string-from-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0752-open-the-lock](https://github.com/deepankarsingh106/My-DSA/tree/master/0752-open-the-lock) |
@@ -494,5 +497,6 @@ It is Journey!!!
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0126-word-ladder-ii) |
+| [0433-minimum-genetic-mutation](https://github.com/deepankarsingh106/My-DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/deepankarsingh106/My-DSA/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
