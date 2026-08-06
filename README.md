@@ -39,6 +39,7 @@ It is Journey!!!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/deepankarsingh106/My-DSA/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepankarsingh106/My-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -125,6 +126,7 @@ It is Journey!!!
 | ------- |
 | [0036-valid-sudoku](https://github.com/deepankarsingh106/My-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deepankarsingh106/My-DSA/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/deepankarsingh106/My-DSA/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepankarsingh106/My-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/deepankarsingh106/My-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/deepankarsingh106/My-DSA/tree/master/0200-number-of-islands) |
@@ -208,6 +210,7 @@ It is Journey!!!
 | ------- |
 | [0036-valid-sudoku](https://github.com/deepankarsingh106/My-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deepankarsingh106/My-DSA/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/deepankarsingh106/My-DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/deepankarsingh106/My-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/deepankarsingh106/My-DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -258,6 +261,7 @@ It is Journey!!!
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/deepankarsingh106/My-DSA/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/deepankarsingh106/My-DSA/tree/master/0127-word-ladder) |
 | [0282-expression-add-operators](https://github.com/deepankarsingh106/My-DSA/tree/master/0282-expression-add-operators) |
@@ -474,6 +478,7 @@ It is Journey!!!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/deepankarsingh106/My-DSA/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/deepankarsingh106/My-DSA/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0126-word-ladder-ii) |
 | [0282-expression-add-operators](https://github.com/deepankarsingh106/My-DSA/tree/master/0282-expression-add-operators) |
 | [0980-unique-paths-iii](https://github.com/deepankarsingh106/My-DSA/tree/master/0980-unique-paths-iii) |
