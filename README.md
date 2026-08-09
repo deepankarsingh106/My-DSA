@@ -35,6 +35,7 @@ It is Journey!!!
 | [1377-frog-position-after-t-seconds](https://github.com/deepankarsingh106/My-DSA/tree/master/1377-frog-position-after-t-seconds) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepankarsingh106/My-DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/deepankarsingh106/My-DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
@@ -68,6 +69,7 @@ It is Journey!!!
 | [1382-balance-a-binary-search-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/deepankarsingh106/My-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/deepankarsingh106/My-DSA/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/deepankarsingh106/My-DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3310-remove-methods-from-project](https://github.com/deepankarsingh106/My-DSA/tree/master/3310-remove-methods-from-project) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -100,6 +102,7 @@ It is Journey!!!
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepankarsingh106/My-DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/deepankarsingh106/My-DSA/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/deepankarsingh106/My-DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3310-remove-methods-from-project](https://github.com/deepankarsingh106/My-DSA/tree/master/3310-remove-methods-from-project) |
 | [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -381,6 +384,7 @@ It is Journey!!!
 | [1377-frog-position-after-t-seconds](https://github.com/deepankarsingh106/My-DSA/tree/master/1377-frog-position-after-t-seconds) |
 | [1971-find-if-path-exists-in-graph](https://github.com/deepankarsingh106/My-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/deepankarsingh106/My-DSA/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/deepankarsingh106/My-DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3310-remove-methods-from-project](https://github.com/deepankarsingh106/My-DSA/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search Tree
