@@ -36,6 +36,7 @@ It is Journey!!!
 | [1382-balance-a-binary-search-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepankarsingh106/My-DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@ It is Journey!!!
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/deepankarsingh106/My-DSA/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3310-remove-methods-from-project](https://github.com/deepankarsingh106/My-DSA/tree/master/3310-remove-methods-from-project) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -99,6 +101,7 @@ It is Journey!!!
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/deepankarsingh106/My-DSA/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/deepankarsingh106/My-DSA/tree/master/3310-remove-methods-from-project) |
+| [3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3373-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
