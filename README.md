@@ -165,6 +165,7 @@ It is Journey!!!
 | [1260-shift-2d-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/deepankarsingh106/My-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/deepankarsingh106/My-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -455,6 +456,7 @@ It is Journey!!!
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/deepankarsingh106/My-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/deepankarsingh106/My-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Design
 |  |
 | ------- |
