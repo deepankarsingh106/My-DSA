@@ -287,6 +287,7 @@ It is Journey!!!
 | [0752-open-the-lock](https://github.com/deepankarsingh106/My-DSA/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/deepankarsingh106/My-DSA/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepankarsingh106/My-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deepankarsingh106/My-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1903-largest-odd-number-in-string](https://github.com/deepankarsingh106/My-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/deepankarsingh106/My-DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/deepankarsingh106/My-DSA/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -457,6 +458,7 @@ It is Journey!!!
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/deepankarsingh106/My-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/deepankarsingh106/My-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deepankarsingh106/My-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Design
 |  |
 | ------- |
