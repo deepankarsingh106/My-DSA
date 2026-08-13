@@ -173,6 +173,7 @@ It is Journey!!!
 | [1711-count-good-meals](https://github.com/deepankarsingh106/My-DSA/tree/master/1711-count-good-meals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/deepankarsingh106/My-DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/deepankarsingh106/My-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/deepankarsingh106/My-DSA/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -297,6 +298,7 @@ It is Journey!!!
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deepankarsingh106/My-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1903-largest-odd-number-in-string](https://github.com/deepankarsingh106/My-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/deepankarsingh106/My-DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/deepankarsingh106/My-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/deepankarsingh106/My-DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/deepankarsingh106/My-DSA/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -490,6 +492,7 @@ It is Journey!!!
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/deepankarsingh106/My-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
@@ -547,4 +550,8 @@ It is Journey!!!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/deepankarsingh106/My-DSA/tree/master/0032-longest-valid-parentheses) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/deepankarsingh106/My-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
