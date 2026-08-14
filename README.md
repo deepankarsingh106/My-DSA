@@ -269,6 +269,7 @@ It is Journey!!!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepankarsingh106/My-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepankarsingh106/My-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/deepankarsingh106/My-DSA/tree/master/3731-find-missing-elements) |
@@ -303,6 +304,7 @@ It is Journey!!!
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/deepankarsingh106/My-DSA/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepankarsingh106/My-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/deepankarsingh106/My-DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -471,6 +473,7 @@ It is Journey!!!
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/deepankarsingh106/My-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deepankarsingh106/My-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepankarsingh106/My-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Design
 |  |
 | ------- |
