@@ -135,6 +135,7 @@ It is Journey!!!
 | [0036-valid-sudoku](https://github.com/deepankarsingh106/My-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deepankarsingh106/My-DSA/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/deepankarsingh106/My-DSA/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepankarsingh106/My-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/deepankarsingh106/My-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/deepankarsingh106/My-DSA/tree/master/0200-number-of-islands) |
@@ -189,6 +190,7 @@ It is Journey!!!
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
