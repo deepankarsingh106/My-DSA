@@ -167,6 +167,7 @@ It is Journey!!!
 | [1288-remove-covered-intervals](https://github.com/deepankarsingh106/My-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/deepankarsingh106/My-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1386-cinema-seat-allocation](https://github.com/deepankarsingh106/My-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -265,6 +266,7 @@ It is Journey!!!
 | [0846-hand-of-straights](https://github.com/deepankarsingh106/My-DSA/tree/master/0846-hand-of-straights) |
 | [1001-grid-illumination](https://github.com/deepankarsingh106/My-DSA/tree/master/1001-grid-illumination) |
 | [1331-rank-transform-of-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/deepankarsingh106/My-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1711-count-good-meals](https://github.com/deepankarsingh106/My-DSA/tree/master/1711-count-good-meals) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/deepankarsingh106/My-DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -362,6 +364,7 @@ It is Journey!!!
 | [0846-hand-of-straights](https://github.com/deepankarsingh106/My-DSA/tree/master/0846-hand-of-straights) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepankarsingh106/My-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/deepankarsingh106/My-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1903-largest-odd-number-in-string](https://github.com/deepankarsingh106/My-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/deepankarsingh106/My-DSA/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -503,6 +506,7 @@ It is Journey!!!
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0980-unique-paths-iii](https://github.com/deepankarsingh106/My-DSA/tree/master/0980-unique-paths-iii) |
+| [1386-cinema-seat-allocation](https://github.com/deepankarsingh106/My-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/deepankarsingh106/My-DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
