@@ -180,6 +180,7 @@ It is Journey!!!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepankarsingh106/My-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -450,6 +451,7 @@ It is Journey!!!
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepankarsingh106/My-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Merge Sort
 |  |
