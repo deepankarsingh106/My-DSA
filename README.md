@@ -283,6 +283,7 @@ It is Journey!!!
 | [3312-sorted-gcd-pair-queries](https://github.com/deepankarsingh106/My-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/deepankarsingh106/My-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/deepankarsingh106/My-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/deepankarsingh106/My-DSA/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -322,6 +323,7 @@ It is Journey!!!
 | [3499-maximize-active-section-with-trade-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/deepankarsingh106/My-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
@@ -381,6 +383,7 @@ It is Journey!!!
 | [2375-construct-smallest-number-from-di-string](https://github.com/deepankarsingh106/My-DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/deepankarsingh106/My-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -484,6 +487,7 @@ It is Journey!!!
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/deepankarsingh106/My-DSA/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepankarsingh106/My-DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/deepankarsingh106/My-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -512,6 +516,7 @@ It is Journey!!!
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/deepankarsingh106/My-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Segment Tree
 |  |
 | ------- |
