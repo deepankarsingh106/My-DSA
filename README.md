@@ -175,6 +175,7 @@ It is Journey!!!
 | [1711-count-good-meals](https://github.com/deepankarsingh106/My-DSA/tree/master/1711-count-good-meals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/deepankarsingh106/My-DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/deepankarsingh106/My-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deepankarsingh106/My-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2352-equal-row-and-column-pairs](https://github.com/deepankarsingh106/My-DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/deepankarsingh106/My-DSA/tree/master/2416-sum-of-prefix-scores-of-strings) |
@@ -384,6 +385,7 @@ It is Journey!!!
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1903-largest-odd-number-in-string](https://github.com/deepankarsingh106/My-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/deepankarsingh106/My-DSA/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/deepankarsingh106/My-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/deepankarsingh106/My-DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
