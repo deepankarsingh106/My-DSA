@@ -11,6 +11,7 @@ It is Journey!!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepankarsingh106/My-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0355-design-twitter](https://github.com/deepankarsingh106/My-DSA/tree/master/0355-design-twitter) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/deepankarsingh106/My-DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tree
 |  |
 | ------- |
