@@ -315,6 +315,7 @@ It is Journey!!!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/deepankarsingh106/My-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/deepankarsingh106/My-DSA/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/deepankarsingh106/My-DSA/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/deepankarsingh106/My-DSA/tree/master/0127-word-ladder) |
 | [0282-expression-add-operators](https://github.com/deepankarsingh106/My-DSA/tree/master/0282-expression-add-operators) |
@@ -370,6 +371,7 @@ It is Journey!!!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/deepankarsingh106/My-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/deepankarsingh106/My-DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepankarsingh106/My-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/deepankarsingh106/My-DSA/tree/master/0877-stone-game) |
