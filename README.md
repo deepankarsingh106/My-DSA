@@ -36,6 +36,7 @@ It is Journey!!!
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/deepankarsingh106/My-DSA/tree/master/1377-frog-position-after-t-seconds) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deepankarsingh106/My-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepankarsingh106/My-DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/deepankarsingh106/My-DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -70,6 +71,7 @@ It is Journey!!!
 | [1377-frog-position-after-t-seconds](https://github.com/deepankarsingh106/My-DSA/tree/master/1377-frog-position-after-t-seconds) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/deepankarsingh106/My-DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deepankarsingh106/My-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/deepankarsingh106/My-DSA/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/deepankarsingh106/My-DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3310-remove-methods-from-project](https://github.com/deepankarsingh106/My-DSA/tree/master/3310-remove-methods-from-project) |
@@ -131,6 +133,7 @@ It is Journey!!!
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deepankarsingh106/My-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepankarsingh106/My-DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Array
