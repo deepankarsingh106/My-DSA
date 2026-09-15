@@ -342,6 +342,7 @@ It is Journey!!!
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deepankarsingh106/My-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/deepankarsingh106/My-DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/deepankarsingh106/My-DSA/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deepankarsingh106/My-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/deepankarsingh106/My-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -387,6 +388,7 @@ It is Journey!!!
 | [0940-distinct-subsequences-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deepankarsingh106/My-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -413,6 +415,7 @@ It is Journey!!!
 | [1927-sum-game](https://github.com/deepankarsingh106/My-DSA/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deepankarsingh106/My-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/deepankarsingh106/My-DSA/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deepankarsingh106/My-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/deepankarsingh106/My-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -496,6 +499,7 @@ It is Journey!!!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/deepankarsingh106/My-DSA/tree/master/0295-find-median-from-data-stream) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deepankarsingh106/My-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/deepankarsingh106/My-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepankarsingh106/My-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
