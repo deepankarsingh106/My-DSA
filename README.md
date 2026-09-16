@@ -314,6 +314,7 @@ It is Journey!!!
 | [0209-minimum-size-subarray-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deepankarsingh106/My-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deepankarsingh106/My-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepankarsingh106/My-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3903-smallest-stable-index-i) |
@@ -388,6 +389,7 @@ It is Journey!!!
 | [0940-distinct-subsequences-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deepankarsingh106/My-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deepankarsingh106/My-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
@@ -432,6 +434,7 @@ It is Journey!!!
 | [0282-expression-add-operators](https://github.com/deepankarsingh106/My-DSA/tree/master/0282-expression-add-operators) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepankarsingh106/My-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/deepankarsingh106/My-DSA/tree/master/0877-stone-game) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deepankarsingh106/My-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/deepankarsingh106/My-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/deepankarsingh106/My-DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -555,6 +558,7 @@ It is Journey!!!
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deepankarsingh106/My-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepankarsingh106/My-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Enumeration
 |  |
