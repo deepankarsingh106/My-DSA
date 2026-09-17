@@ -178,6 +178,7 @@ It is Journey!!!
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/deepankarsingh106/My-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/deepankarsingh106/My-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/deepankarsingh106/My-DSA/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -213,6 +214,7 @@ It is Journey!!!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepankarsingh106/My-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -294,6 +296,7 @@ It is Journey!!!
 | [1001-grid-illumination](https://github.com/deepankarsingh106/My-DSA/tree/master/1001-grid-illumination) |
 | [1331-rank-transform-of-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/deepankarsingh106/My-DSA/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1711-count-good-meals](https://github.com/deepankarsingh106/My-DSA/tree/master/1711-count-good-meals) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/deepankarsingh106/My-DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2352-equal-row-and-column-pairs](https://github.com/deepankarsingh106/My-DSA/tree/master/2352-equal-row-and-column-pairs) |
@@ -388,6 +391,7 @@ It is Journey!!!
 | [0877-stone-game](https://github.com/deepankarsingh106/My-DSA/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deepankarsingh106/My-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deepankarsingh106/My-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -541,6 +545,7 @@ It is Journey!!!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/deepankarsingh106/My-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/deepankarsingh106/My-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deepankarsingh106/My-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/deepankarsingh106/My-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepankarsingh106/My-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
