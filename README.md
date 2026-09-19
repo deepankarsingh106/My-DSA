@@ -442,6 +442,7 @@ It is Journey!!!
 | [0282-expression-add-operators](https://github.com/deepankarsingh106/My-DSA/tree/master/0282-expression-add-operators) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepankarsingh106/My-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/deepankarsingh106/My-DSA/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/deepankarsingh106/My-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deepankarsingh106/My-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/deepankarsingh106/My-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/deepankarsingh106/My-DSA/tree/master/1927-sum-game) |
@@ -650,4 +651,8 @@ It is Journey!!!
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/deepankarsingh106/My-DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/deepankarsingh106/My-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
