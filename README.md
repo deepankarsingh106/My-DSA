@@ -199,6 +199,7 @@ It is Journey!!!
 | [3501-maximize-active-section-with-trade-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/deepankarsingh106/My-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepankarsingh106/My-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/deepankarsingh106/My-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/deepankarsingh106/My-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -452,6 +453,7 @@ It is Journey!!!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepankarsingh106/My-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/deepankarsingh106/My-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/deepankarsingh106/My-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/deepankarsingh106/My-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
