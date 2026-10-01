@@ -287,6 +287,7 @@ It is Journey!!!
 | [0037-sudoku-solver](https://github.com/deepankarsingh106/My-DSA/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/deepankarsingh106/My-DSA/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/deepankarsingh106/My-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/deepankarsingh106/My-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/deepankarsingh106/My-DSA/tree/master/0355-design-twitter) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -341,6 +342,7 @@ It is Journey!!!
 | [0115-distinct-subsequences](https://github.com/deepankarsingh106/My-DSA/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/deepankarsingh106/My-DSA/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/deepankarsingh106/My-DSA/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/deepankarsingh106/My-DSA/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/deepankarsingh106/My-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0433-minimum-genetic-mutation](https://github.com/deepankarsingh106/My-DSA/tree/master/0433-minimum-genetic-mutation) |
@@ -380,6 +382,7 @@ It is Journey!!!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/deepankarsingh106/My-DSA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/deepankarsingh106/My-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/deepankarsingh106/My-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
