@@ -283,6 +283,7 @@ It is Journey!!!
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/deepankarsingh106/My-DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/deepankarsingh106/My-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deepankarsingh106/My-DSA/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0126-word-ladder-ii) |
@@ -337,6 +338,7 @@ It is Journey!!!
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/deepankarsingh106/My-DSA/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/deepankarsingh106/My-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/deepankarsingh106/My-DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/deepankarsingh106/My-DSA/tree/master/0115-distinct-subsequences) |
@@ -463,6 +465,7 @@ It is Journey!!!
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/deepankarsingh106/My-DSA/tree/master/0013-roman-to-integer) |
 | [0282-expression-add-operators](https://github.com/deepankarsingh106/My-DSA/tree/master/0282-expression-add-operators) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepankarsingh106/My-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/deepankarsingh106/My-DSA/tree/master/0877-stone-game) |
