@@ -411,6 +411,7 @@ It is Journey!!!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/deepankarsingh106/My-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/deepankarsingh106/My-DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/deepankarsingh106/My-DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepankarsingh106/My-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/0542-01-matrix) |
@@ -469,6 +470,7 @@ It is Journey!!!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/deepankarsingh106/My-DSA/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/deepankarsingh106/My-DSA/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/deepankarsingh106/My-DSA/tree/master/0282-expression-add-operators) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepankarsingh106/My-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/deepankarsingh106/My-DSA/tree/master/0877-stone-game) |
@@ -694,4 +696,8 @@ It is Journey!!!
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/deepankarsingh106/My-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/deepankarsingh106/My-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
