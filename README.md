@@ -164,6 +164,7 @@ It is Journey!!!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/deepankarsingh106/My-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0695-max-area-of-island](https://github.com/deepankarsingh106/My-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/deepankarsingh106/My-DSA/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/deepankarsingh106/My-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/deepankarsingh106/My-DSA/tree/master/0752-open-the-lock) |
 | [0835-image-overlap](https://github.com/deepankarsingh106/My-DSA/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/deepankarsingh106/My-DSA/tree/master/0846-hand-of-straights) |
@@ -418,6 +419,7 @@ It is Journey!!!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepankarsingh106/My-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/deepankarsingh106/My-DSA/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/deepankarsingh106/My-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/deepankarsingh106/My-DSA/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
