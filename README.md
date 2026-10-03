@@ -143,6 +143,7 @@ It is Journey!!!
 | ------- |
 | [0036-valid-sudoku](https://github.com/deepankarsingh106/My-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deepankarsingh106/My-DSA/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/deepankarsingh106/My-DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/deepankarsingh106/My-DSA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/deepankarsingh106/My-DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -422,6 +423,7 @@ It is Journey!!!
 | ------- |
 | [0022-generate-parentheses](https://github.com/deepankarsingh106/My-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/deepankarsingh106/My-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/deepankarsingh106/My-DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/deepankarsingh106/My-DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/deepankarsingh106/My-DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepankarsingh106/My-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -442,6 +444,7 @@ It is Journey!!!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/deepankarsingh106/My-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/deepankarsingh106/My-DSA/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepankarsingh106/My-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/deepankarsingh106/My-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/deepankarsingh106/My-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -477,6 +480,7 @@ It is Journey!!!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/deepankarsingh106/My-DSA/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/deepankarsingh106/My-DSA/tree/master/0316-remove-duplicate-letters) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepankarsingh106/My-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepankarsingh106/My-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -558,6 +562,7 @@ It is Journey!!!
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/deepankarsingh106/My-DSA/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/deepankarsingh106/My-DSA/tree/master/0295-find-median-from-data-stream) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deepankarsingh106/My-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/deepankarsingh106/My-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
