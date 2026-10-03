@@ -143,6 +143,7 @@ It is Journey!!!
 | ------- |
 | [0036-valid-sudoku](https://github.com/deepankarsingh106/My-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deepankarsingh106/My-DSA/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/deepankarsingh106/My-DSA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/deepankarsingh106/My-DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepankarsingh106/My-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -291,6 +292,7 @@ It is Journey!!!
 | [0013-roman-to-integer](https://github.com/deepankarsingh106/My-DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/deepankarsingh106/My-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deepankarsingh106/My-DSA/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/deepankarsingh106/My-DSA/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/deepankarsingh106/My-DSA/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/deepankarsingh106/My-DSA/tree/master/0242-valid-anagram) |
@@ -346,6 +348,7 @@ It is Journey!!!
 | [0013-roman-to-integer](https://github.com/deepankarsingh106/My-DSA/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/deepankarsingh106/My-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/deepankarsingh106/My-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/deepankarsingh106/My-DSA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/deepankarsingh106/My-DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/deepankarsingh106/My-DSA/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0126-word-ladder-ii) |
@@ -390,6 +393,7 @@ It is Journey!!!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/deepankarsingh106/My-DSA/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/deepankarsingh106/My-DSA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/deepankarsingh106/My-DSA/tree/master/0295-find-median-from-data-stream) |
