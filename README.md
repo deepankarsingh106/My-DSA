@@ -145,6 +145,7 @@ It is Journey!!!
 | [0037-sudoku-solver](https://github.com/deepankarsingh106/My-DSA/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/deepankarsingh106/My-DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/deepankarsingh106/My-DSA/tree/master/0049-group-anagrams) |
+| [0057-insert-interval](https://github.com/deepankarsingh106/My-DSA/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/deepankarsingh106/My-DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepankarsingh106/My-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
