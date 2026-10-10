@@ -190,6 +190,7 @@ It is Journey!!!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/deepankarsingh106/My-DSA/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/deepankarsingh106/My-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1711-count-good-meals](https://github.com/deepankarsingh106/My-DSA/tree/master/1711-count-good-meals) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/deepankarsingh106/My-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -317,6 +318,7 @@ It is Journey!!!
 | [1386-cinema-seat-allocation](https://github.com/deepankarsingh106/My-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/deepankarsingh106/My-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/deepankarsingh106/My-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/deepankarsingh106/My-DSA/tree/master/1711-count-good-meals) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/deepankarsingh106/My-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/deepankarsingh106/My-DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -414,6 +416,7 @@ It is Journey!!!
 | [1331-rank-transform-of-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/deepankarsingh106/My-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/deepankarsingh106/My-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepankarsingh106/My-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -571,6 +574,7 @@ It is Journey!!!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deepankarsingh106/My-DSA/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/deepankarsingh106/My-DSA/tree/master/0295-find-median-from-data-stream) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/deepankarsingh106/My-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deepankarsingh106/My-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/deepankarsingh106/My-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepankarsingh106/My-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
