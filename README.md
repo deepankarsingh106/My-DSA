@@ -203,6 +203,7 @@ It is Journey!!!
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/deepankarsingh106/My-DSA/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/deepankarsingh106/My-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/deepankarsingh106/My-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepankarsingh106/My-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -324,6 +325,7 @@ It is Journey!!!
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/deepankarsingh106/My-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/deepankarsingh106/My-DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2352-equal-row-and-column-pairs](https://github.com/deepankarsingh106/My-DSA/tree/master/2352-equal-row-and-column-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/deepankarsingh106/My-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -485,6 +487,7 @@ It is Journey!!!
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deepankarsingh106/My-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/deepankarsingh106/My-DSA/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deepankarsingh106/My-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/deepankarsingh106/My-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/deepankarsingh106/My-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -659,6 +662,7 @@ It is Journey!!!
 | [0980-unique-paths-iii](https://github.com/deepankarsingh106/My-DSA/tree/master/0980-unique-paths-iii) |
 | [1386-cinema-seat-allocation](https://github.com/deepankarsingh106/My-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/deepankarsingh106/My-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/deepankarsingh106/My-DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepankarsingh106/My-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
