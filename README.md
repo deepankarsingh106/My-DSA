@@ -460,6 +460,7 @@ It is Journey!!!
 | [0032-longest-valid-parentheses](https://github.com/deepankarsingh106/My-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/deepankarsingh106/My-DSA/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepankarsingh106/My-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0225-implement-stack-using-queues](https://github.com/deepankarsingh106/My-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/deepankarsingh106/My-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/deepankarsingh106/My-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/deepankarsingh106/My-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -633,6 +634,7 @@ It is Journey!!!
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/deepankarsingh106/My-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/deepankarsingh106/My-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/deepankarsingh106/My-DSA/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/deepankarsingh106/My-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -759,4 +761,8 @@ It is Journey!!!
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepankarsingh106/My-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/deepankarsingh106/My-DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
