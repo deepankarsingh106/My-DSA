@@ -454,6 +454,7 @@ It is Journey!!!
 | [0746-min-cost-climbing-stairs](https://github.com/deepankarsingh106/My-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/deepankarsingh106/My-DSA/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/deepankarsingh106/My-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -519,6 +520,7 @@ It is Journey!!!
 | [0282-expression-add-operators](https://github.com/deepankarsingh106/My-DSA/tree/master/0282-expression-add-operators) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepankarsingh106/My-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/deepankarsingh106/My-DSA/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/deepankarsingh106/My-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/deepankarsingh106/My-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deepankarsingh106/My-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/deepankarsingh106/My-DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -755,6 +757,7 @@ It is Journey!!!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/deepankarsingh106/My-DSA/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/deepankarsingh106/My-DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Knapsack Problem
 |  |
 | ------- |
