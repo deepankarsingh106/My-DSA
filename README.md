@@ -230,6 +230,7 @@ It is Journey!!!
 | [3903-smallest-stable-index-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/deepankarsingh106/My-DSA/tree/master/3925-concatenate-array-with-reverse) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/deepankarsingh106/My-DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
