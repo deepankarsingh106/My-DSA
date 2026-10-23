@@ -146,6 +146,7 @@ It is Journey!!!
 | [0042-trapping-rain-water](https://github.com/deepankarsingh106/My-DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/deepankarsingh106/My-DSA/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/deepankarsingh106/My-DSA/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/deepankarsingh106/My-DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepankarsingh106/My-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -280,6 +281,7 @@ It is Journey!!!
 | ------- |
 | [0036-valid-sudoku](https://github.com/deepankarsingh106/My-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deepankarsingh106/My-DSA/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/deepankarsingh106/My-DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/deepankarsingh106/My-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/deepankarsingh106/My-DSA/tree/master/0200-number-of-islands) |
@@ -450,6 +452,7 @@ It is Journey!!!
 | [0022-generate-parentheses](https://github.com/deepankarsingh106/My-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/deepankarsingh106/My-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/deepankarsingh106/My-DSA/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/deepankarsingh106/My-DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/deepankarsingh106/My-DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepankarsingh106/My-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
