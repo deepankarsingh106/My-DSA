@@ -175,6 +175,7 @@ It is Journey!!!
 | [0835-image-overlap](https://github.com/deepankarsingh106/My-DSA/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/deepankarsingh106/My-DSA/tree/master/0846-hand-of-straights) |
 | [0877-stone-game](https://github.com/deepankarsingh106/My-DSA/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/deepankarsingh106/My-DSA/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/deepankarsingh106/My-DSA/tree/master/0994-rotting-oranges) |
 | [1001-grid-illumination](https://github.com/deepankarsingh106/My-DSA/tree/master/1001-grid-illumination) |
@@ -287,6 +288,7 @@ It is Journey!!!
 | [0695-max-area-of-island](https://github.com/deepankarsingh106/My-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/deepankarsingh106/My-DSA/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/deepankarsingh106/My-DSA/tree/master/0835-image-overlap) |
+| [0931-minimum-falling-path-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/deepankarsingh106/My-DSA/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/deepankarsingh106/My-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/deepankarsingh106/My-DSA/tree/master/1020-number-of-enclaves) |
@@ -457,6 +459,7 @@ It is Journey!!!
 | [0740-delete-and-earn](https://github.com/deepankarsingh106/My-DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/deepankarsingh106/My-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/deepankarsingh106/My-DSA/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/deepankarsingh106/My-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
