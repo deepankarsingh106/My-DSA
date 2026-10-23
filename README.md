@@ -185,6 +185,7 @@ It is Journey!!!
 | [1219-path-with-maximum-gold](https://github.com/deepankarsingh106/My-DSA/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/deepankarsingh106/My-DSA/tree/master/1288-remove-covered-intervals) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/deepankarsingh106/My-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/deepankarsingh106/My-DSA/tree/master/1386-cinema-seat-allocation) |
@@ -295,6 +296,7 @@ It is Journey!!!
 | [1091-shortest-path-in-binary-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/deepankarsingh106/My-DSA/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/1260-shift-2d-grid) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/deepankarsingh106/My-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/deepankarsingh106/My-DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -462,6 +464,7 @@ It is Journey!!!
 | [0931-minimum-falling-path-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/deepankarsingh106/My-DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
