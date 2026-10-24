@@ -149,6 +149,7 @@ It is Journey!!!
 | [0064-minimum-path-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/deepankarsingh106/My-DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0120-triangle](https://github.com/deepankarsingh106/My-DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepankarsingh106/My-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/deepankarsingh106/My-DSA/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/deepankarsingh106/My-DSA/tree/master/0198-house-robber) |
@@ -455,6 +456,7 @@ It is Journey!!!
 | [0064-minimum-path-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/deepankarsingh106/My-DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/deepankarsingh106/My-DSA/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/deepankarsingh106/My-DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepankarsingh106/My-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/deepankarsingh106/My-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0213-house-robber-ii) |
