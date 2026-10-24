@@ -479,6 +479,7 @@ It is Journey!!!
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deepankarsingh106/My-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/deepankarsingh106/My-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/deepankarsingh106/My-DSA/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deepankarsingh106/My-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
@@ -546,6 +547,7 @@ It is Journey!!!
 | [1903-largest-odd-number-in-string](https://github.com/deepankarsingh106/My-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/deepankarsingh106/My-DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/deepankarsingh106/My-DSA/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepankarsingh106/My-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -677,6 +679,7 @@ It is Journey!!!
 | ------- |
 | [0062-unique-paths](https://github.com/deepankarsingh106/My-DSA/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deepankarsingh106/My-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/deepankarsingh106/My-DSA/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepankarsingh106/My-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Enumeration
 |  |
