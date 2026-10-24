@@ -453,6 +453,7 @@ It is Journey!!!
 | [0022-generate-parentheses](https://github.com/deepankarsingh106/My-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/deepankarsingh106/My-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/deepankarsingh106/My-DSA/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/deepankarsingh106/My-DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/deepankarsingh106/My-DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/deepankarsingh106/My-DSA/tree/master/0115-distinct-subsequences) |
@@ -531,6 +532,7 @@ It is Journey!!!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/deepankarsingh106/My-DSA/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/deepankarsingh106/My-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/deepankarsingh106/My-DSA/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/deepankarsingh106/My-DSA/tree/master/0282-expression-add-operators) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepankarsingh106/My-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -670,6 +672,7 @@ It is Journey!!!
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/deepankarsingh106/My-DSA/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deepankarsingh106/My-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/deepankarsingh106/My-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Enumeration
