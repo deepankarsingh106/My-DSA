@@ -176,6 +176,7 @@ It is Journey!!!
 | [0695-max-area-of-island](https://github.com/deepankarsingh106/My-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/deepankarsingh106/My-DSA/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/deepankarsingh106/My-DSA/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/deepankarsingh106/My-DSA/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/deepankarsingh106/My-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/deepankarsingh106/My-DSA/tree/master/0752-open-the-lock) |
 | [0835-image-overlap](https://github.com/deepankarsingh106/My-DSA/tree/master/0835-image-overlap) |
@@ -301,6 +302,7 @@ It is Journey!!!
 | [0542-01-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/deepankarsingh106/My-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/deepankarsingh106/My-DSA/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/deepankarsingh106/My-DSA/tree/master/0741-cherry-pickup) |
 | [0835-image-overlap](https://github.com/deepankarsingh106/My-DSA/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/deepankarsingh106/My-DSA/tree/master/0980-unique-paths-iii) |
@@ -480,6 +482,7 @@ It is Journey!!!
 | [0542-01-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/deepankarsingh106/My-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/deepankarsingh106/My-DSA/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/deepankarsingh106/My-DSA/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/deepankarsingh106/My-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/deepankarsingh106/My-DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/0931-minimum-falling-path-sum) |
