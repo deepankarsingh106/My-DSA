@@ -204,6 +204,7 @@ It is Journey!!!
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1711-count-good-meals](https://github.com/deepankarsingh106/My-DSA/tree/master/1711-count-good-meals) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/deepankarsingh106/My-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/deepankarsingh106/My-DSA/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/deepankarsingh106/My-DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deepankarsingh106/My-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -310,6 +311,7 @@ It is Journey!!!
 | [1260-shift-2d-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/1463-cherry-pickup-ii) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/deepankarsingh106/My-DSA/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/deepankarsingh106/My-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/deepankarsingh106/My-DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -489,6 +491,7 @@ It is Journey!!!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deepankarsingh106/My-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/deepankarsingh106/My-DSA/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/deepankarsingh106/My-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/deepankarsingh106/My-DSA/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deepankarsingh106/My-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
