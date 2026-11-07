@@ -169,6 +169,7 @@ It is Journey!!!
 | [0347-top-k-frequent-elements](https://github.com/deepankarsingh106/My-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/deepankarsingh106/My-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/deepankarsingh106/My-DSA/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/deepankarsingh106/My-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/deepankarsingh106/My-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -492,6 +493,7 @@ It is Journey!!!
 | [0198-house-robber](https://github.com/deepankarsingh106/My-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/deepankarsingh106/My-DSA/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/deepankarsingh106/My-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/deepankarsingh106/My-DSA/tree/master/0740-delete-and-earn) |
@@ -832,6 +834,7 @@ It is Journey!!!
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/deepankarsingh106/My-DSA/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -845,4 +848,8 @@ It is Journey!!!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/deepankarsingh106/My-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/deepankarsingh106/My-DSA/tree/master/0232-implement-queue-using-stacks) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
