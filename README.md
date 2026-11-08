@@ -180,6 +180,7 @@ It is Journey!!!
 | [0621-task-scheduler](https://github.com/deepankarsingh106/My-DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepankarsingh106/My-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/deepankarsingh106/My-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0682-baseball-game](https://github.com/deepankarsingh106/My-DSA/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/deepankarsingh106/My-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/deepankarsingh106/My-DSA/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/deepankarsingh106/My-DSA/tree/master/0740-delete-and-earn) |
@@ -526,6 +527,7 @@ It is Journey!!!
 | [0232-implement-queue-using-stacks](https://github.com/deepankarsingh106/My-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/deepankarsingh106/My-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/deepankarsingh106/My-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/deepankarsingh106/My-DSA/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/deepankarsingh106/My-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepankarsingh106/My-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/deepankarsingh106/My-DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -665,6 +667,7 @@ It is Journey!!!
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/deepankarsingh106/My-DSA/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/1260-shift-2d-grid) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/deepankarsingh106/My-DSA/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2352-equal-row-and-column-pairs](https://github.com/deepankarsingh106/My-DSA/tree/master/2352-equal-row-and-column-pairs) |
