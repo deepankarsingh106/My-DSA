@@ -70,6 +70,7 @@ It is Journey!!!
 | [0785-is-graph-bipartite](https://github.com/deepankarsingh106/My-DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/deepankarsingh106/My-DSA/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1267-count-servers-that-communicate](https://github.com/deepankarsingh106/My-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/deepankarsingh106/My-DSA/tree/master/1377-frog-position-after-t-seconds) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -107,6 +108,7 @@ It is Journey!!!
 | [1020-number-of-enclaves](https://github.com/deepankarsingh106/My-DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/deepankarsingh106/My-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1377-frog-position-after-t-seconds](https://github.com/deepankarsingh106/My-DSA/tree/master/1377-frog-position-after-t-seconds) |
 | [1971-find-if-path-exists-in-graph](https://github.com/deepankarsingh106/My-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepankarsingh106/My-DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -199,6 +201,7 @@ It is Journey!!!
 | [1091-shortest-path-in-binary-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/deepankarsingh106/My-DSA/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/deepankarsingh106/My-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/deepankarsingh106/My-DSA/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/deepankarsingh106/My-DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -276,6 +279,7 @@ It is Journey!!!
 | [0695-max-area-of-island](https://github.com/deepankarsingh106/My-DSA/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/deepankarsingh106/My-DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/deepankarsingh106/My-DSA/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/deepankarsingh106/My-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/deepankarsingh106/My-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/deepankarsingh106/My-DSA/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -322,6 +326,7 @@ It is Journey!!!
 | [1091-shortest-path-in-binary-matrix](https://github.com/deepankarsingh106/My-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/deepankarsingh106/My-DSA/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/deepankarsingh106/My-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/deepankarsingh106/My-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/1463-cherry-pickup-ii) |
@@ -691,6 +696,7 @@ It is Journey!!!
 | [0451-sort-characters-by-frequency](https://github.com/deepankarsingh106/My-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/deepankarsingh106/My-DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/deepankarsingh106/My-DSA/tree/master/0767-reorganize-string) |
+| [1267-count-servers-that-communicate](https://github.com/deepankarsingh106/My-DSA/tree/master/1267-count-servers-that-communicate) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/deepankarsingh106/My-DSA/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/deepankarsingh106/My-DSA/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepankarsingh106/My-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
