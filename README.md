@@ -589,6 +589,7 @@ It is Journey!!!
 | [1137-n-th-tribonacci-number](https://github.com/deepankarsingh106/My-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/deepankarsingh106/My-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deepankarsingh106/My-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1688-count-of-matches-in-tournament](https://github.com/deepankarsingh106/My-DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/deepankarsingh106/My-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/deepankarsingh106/My-DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deepankarsingh106/My-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -675,6 +676,7 @@ It is Journey!!!
 | [0682-baseball-game](https://github.com/deepankarsingh106/My-DSA/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/deepankarsingh106/My-DSA/tree/master/1260-shift-2d-grid) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/deepankarsingh106/My-DSA/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/deepankarsingh106/My-DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2352-equal-row-and-column-pairs](https://github.com/deepankarsingh106/My-DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/deepankarsingh106/My-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/deepankarsingh106/My-DSA/tree/master/3498-reverse-degree-of-a-string) |
