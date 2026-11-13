@@ -192,6 +192,7 @@ It is Journey!!!
 | [0752-open-the-lock](https://github.com/deepankarsingh106/My-DSA/tree/master/0752-open-the-lock) |
 | [0835-image-overlap](https://github.com/deepankarsingh106/My-DSA/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/deepankarsingh106/My-DSA/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/deepankarsingh106/My-DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/deepankarsingh106/My-DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/deepankarsingh106/My-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/deepankarsingh106/My-DSA/tree/master/0980-unique-paths-iii) |
@@ -557,6 +558,7 @@ It is Journey!!!
 | [0678-valid-parenthesis-string](https://github.com/deepankarsingh106/My-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/deepankarsingh106/My-DSA/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/deepankarsingh106/My-DSA/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/deepankarsingh106/My-DSA/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/deepankarsingh106/My-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepankarsingh106/My-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepankarsingh106/My-DSA/tree/master/1382-balance-a-binary-search-tree) |
